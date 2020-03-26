@@ -1,7 +1,7 @@
 {
   "name": "wsl-puppeteer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Javascript Automation in the Windows Subsystem for Linux",
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js"
