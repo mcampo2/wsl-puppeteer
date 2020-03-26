@@ -1,0 +1,12 @@
+{
+  "name": "wsl-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
