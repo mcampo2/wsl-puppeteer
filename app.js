@@ -1,8 +1,4 @@
 #!/usr/bin/node
-if(require.main === module) {
-  console.log('puppeteer: app.js');
-}
-
 const puppeteer = require('puppeteer');
 var args = { args: ['--no-sandbox', '--single-process'] };
 
